@@ -1,0 +1,48 @@
+.section1a{
+ 
+   display: flex; 
+   justify-content: space-around;
+   padding-bottom: 20px;
+   text-align: center;
+}
+
+
+button{
+background-color: orange;
+height: 60px;
+width: 300px;
+font-size: 30px;
+font-weight: bold;
+border-radius: 20px;
+color: white;
+
+}
+h2{
+   font-size: 15px;
+}
+   .section2{
+      background-color: pink;
+      height: 500px;
+      padding-top: 50px;
+      padding-left: 50px;
+   }
+   footer{
+      background-color: lightgray;
+     font-weight: bold;
+     border-radius: 40px;
+     height: 100px;
+     padding-top: 30px;
+  
+     
+     }
+     .footer-right{
+      padding-right: 150px;
+      float: right; 
+     }
+     .footer-left{
+     padding-left: 150px;
+    float: left;
+     }
+     
+   
+     

@@ -1,0 +1,62 @@
+nav{
+    background-color: orange;
+    display : flex;
+    align-items: center;
+   
+   }
+  
+   .nav-list{
+     font-size: 25px;
+    text-decoration: none;
+     color: white;
+     padding-left: 20px;
+     padding-right: 10px;
+     font-weight: bold;
+      
+   }
+    
+   h1{
+     font-size: 60px;
+     color: orange;
+     text-align: center;
+     font-weight: bold; 
+   
+   }
+   h2{
+     font-size: 25px;
+   color: brown;
+   text-align: center;
+   }
+   .plan1{
+     font-size: 20px;
+     padding-left: 20px;
+   }
+   .plan2{
+     font-size: 20px;
+     padding-left: 20px;
+     text-align: center;
+   }
+   footer{
+    background-color: lightgray;
+   font-weight: bold;
+   border-radius: 40px;
+   height: 100px;
+   padding-top: 30px;
+
+   
+   }
+   .footer-right{
+    padding-right: 150px;
+    float: right; 
+   }
+   .footer-left{
+   padding-left: 150px;
+  float: left;
+   }
+   
+   
+     
+   
+     
+   
+     
